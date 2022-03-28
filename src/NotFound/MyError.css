@@ -1,0 +1,14 @@
+.Main_Div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.font{
+    font-size: 80px;
+}
+img{
+    width: 400px;
+}
